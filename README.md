@@ -57,6 +57,17 @@ pip install pyspark spark-nlp numpy pandas matplotlib seaborn
 - **Plots**: Correlation matrix, regression results, and other visualizations (see `cfmatrix.png`, `Graphs.png`, `Loggraph.png`).
 - **Notebook**: All code and analysis steps are in `YT_Analysis.ipynb`.
 
+## Example Plots
+
+### Correlation Matrix
+![Correlation Matrix](cfmatrix.png)
+
+### Graphs
+![Graphs](Graphs.png)
+
+### Log Graph
+![Log Graph](Loggraph.png)
+
 ## Project Structure
 ```
 BIGDATA_ytAnalysis/
